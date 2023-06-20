@@ -1,0 +1,7 @@
+.vscode
+lib
+*.out
+*.png
+*.
+*.docx
+.DS_Store
